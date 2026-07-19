@@ -1,0 +1,12 @@
+# Downloaded contest data (script output)
+submissions_*/
+submissions_*.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS cruft
+.DS_Store
